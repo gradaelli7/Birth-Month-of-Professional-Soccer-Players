@@ -2,6 +2,7 @@ Welcome to my Repository for my analysis on professional soccer players!
 I created two medium posts that go along with this project which can be found here:
 
 What Impacts the Success of a Professional Soccer Player - https://medium.com/@giacorada/what-impacts-the-success-of-a-professional-soccer-player-14a2ab4f852a
+
 The Fascinating Birth Trend Among Professional Soccer Players - https://medium.com/@giacorada/the-fascinating-birth-trend-among-professional-soccer-players-b2a48d015e7d
 
 There are 10 total Jupyter Notebooks for this project:
